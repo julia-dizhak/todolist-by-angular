@@ -1,6 +1,12 @@
 # TodoList
 
+This Angular Web Application was build during workshop organised by ng-girls.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
+[Official tutorial](https://ng-girls.gitbook.io/todo-list-tutorial/workshop-todo-list/readme)
+
+## Improvements
+- There is a visual bug with checkbox for success todo in a list
+- [Tutorial extensions](https://ng-girls.gitbook.io/todo-list-tutorial/workshop-todo-list/appendix-1-generating-a-new-project)
 
 ## Development server
 
